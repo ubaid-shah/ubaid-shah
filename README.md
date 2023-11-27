@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am a Data Scientist 👨‍💻 and Professional Educator 🧑‍🏫 and Corporate Trainer 👨‍💼.
+- I love to train people in different domains
+- Follow 🏃 me on linkedIn https://www.linkedin.com/in/ubaid-shah/
+- If you like my work please hit star
+  
