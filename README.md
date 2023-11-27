@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 - I'm a **Data Scientist** 👨‍💻, **Professional Educator** 🧑‍🏫, and **Corporate Trainer** 👨‍💼 passionate about empowering others through training in diverse domains.
 - Connect with me on LinkedIn: **https://www.linkedin.com/in/ubaid-shah/**
 - **If you appreciate my work, feel free to give it a star ⭐️.**
+
+## Subscribe to my YouTube Channel: https://www.youtube.com/@hbiit?sub_confirmation=1
 ### Explore the repositories I've crafted for you below 👇.
   
